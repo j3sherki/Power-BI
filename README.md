@@ -2,11 +2,11 @@
 I've developed a comprehensive dashboard for pizza sales, leveraging the power of Microsoft Power BI and integrating it with a Microsoft SQL Server database. The dashboard is constructed using Power Query, DAX (Data Analysis Expressions), and advanced Power BI techniques to extract meaningful insights from the data.
 
 # Key Performance Indicators (KPIs):
-# 1.Total Revenue: Track the overall income generated from pizza sales.
-# 2.Average Order Value: Understand the average value of each customer order.
-# 3.Total Pizzas Sold: Monitor the overall quantity of pizzas sold.
-# 4.Total Orders: Keep track of the total number of orders placed.
-# 5.Average Pizzas Per Order: Analyze the average number of pizzas per customer order
+ 1.Total Revenue: Track the overall income generated from pizza sales.
+ 2.Average Order Value: Understand the average value of each customer order.
+ 3.Total Pizzas Sold: Monitor the overall quantity of pizzas sold.
+ 4.Total Orders: Keep track of the total number of orders placed.
+ 5.Average Pizzas Per Order: Analyze the average number of pizzas per customer order
 
 # Daily Trends for Total Orders:
 - Visualize the day-wise variations in the total number of orders.
